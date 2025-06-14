@@ -1,2 +1,1 @@
-ultralytics:latest-cpu
-
+ultralytics/ultralytics:latest-cpu
