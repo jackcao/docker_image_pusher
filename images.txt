@@ -1,1 +1,1 @@
-ultralytics/ultralytics:latest-cpu
+python:3.13-slim
