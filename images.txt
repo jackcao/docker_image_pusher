@@ -1,4 +1,1 @@
-apache/rocketmq:latest
-mysql:8.4
-redis:latest
-debian:bookworm-slim
+apacherocketmq/rocketmq-dashboard:latest
