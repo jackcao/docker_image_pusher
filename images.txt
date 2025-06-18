@@ -1,1 +1,1 @@
-mcp/context7:latest
+nginx:stable
