@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+mcp/context7:latest
