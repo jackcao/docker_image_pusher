@@ -1,1 +1,2 @@
-ultralytics/ultralytics:latest
+ultralytics/ultralytics:latest-cpu
+ultralytics/ultralytics:latest-python
