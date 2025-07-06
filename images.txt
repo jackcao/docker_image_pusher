@@ -1,2 +1,4 @@
-ultralytics/ultralytics:latest-cpu
-ultralytics/ultralytics:latest
+kibana:8.18.2
+logstash:8.18.2
+elastic/filebeat:9.0.3
+elasticsearch:8.18.2
