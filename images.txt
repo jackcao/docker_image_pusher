@@ -1,1 +1,1 @@
-jenkinsci/blueocean:latest
+drone/drone:2.26.0
