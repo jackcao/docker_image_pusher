@@ -1,1 +1,1 @@
-drone/drone:2.26.0
+paddlepaddle/paddle:3.0.0
