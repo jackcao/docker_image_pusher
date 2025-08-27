@@ -1,1 +1,1 @@
-paddlepaddle/paddle:3.0.0
+eclipse-temurin:21-jdk-alpine
