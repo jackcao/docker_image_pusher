@@ -1,1 +1,1 @@
-hengyunabc/arthas:latest
+maven:latest
