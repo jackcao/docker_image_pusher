@@ -1,1 +1,1 @@
---platform linux/amd64 astral/uv:latest
+--platform linux/arm64 astral/uv:latest
