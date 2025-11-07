@@ -1,1 +1,1 @@
---platform linux/arm64 astral/uv:latest
+--platform linux/arm64 ghcr.io/astral-sh/uv:latest
