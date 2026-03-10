@@ -1,1 +1,1 @@
-langfuse/langfuse:latest
+langfuse/langfuse-worker:latest
