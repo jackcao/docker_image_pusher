@@ -1,1 +1,1 @@
-langfuse/langfuse-worker:latest
+calciumion/new-api
