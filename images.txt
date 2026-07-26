@@ -1,3 +1,1 @@
-node:current-alpine3.23
-python:3.12-slim
-ghcr.io/astral-sh/uv:latest
+dhi.io/nginx:1.30.4-debian13
