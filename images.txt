@@ -1,1 +1,1 @@
-dhi.io/nginx:1.30.4-debian13
+dhi.io/nginx:1.31.3-debian13
