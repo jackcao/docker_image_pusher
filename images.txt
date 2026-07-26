@@ -1,1 +1,1 @@
-dhi.io/nginx:1.31.3-debian13
+nginx:stable-alpine3.24-perl
